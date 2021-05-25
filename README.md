@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+- 😄 I'm a software developer at [SAS Insitute Inc.](https://www.sas.com/), for over 20 years.
+- 💬 Ask me about Metadata!
+- 🌱 I’m currently learning GO
 - 🔭 I’m currently working on [odpi/egeria-connector-sas-viya](https://github.com/odpi/egeria-connector-sas-viya)
 - 👯 I’m looking to collaborate on [Open Metadata](https://github.com/odpi/egeria)
-
 
 <!--
 **CDaRip2U/CDaRip2U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
