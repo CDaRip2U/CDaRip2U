@@ -2,7 +2,7 @@
 
 - 😄 I'm a software developer at [SAS Insitute Inc.](https://www.sas.com/), for over 20 years.
 - 💬 Ask me about Metadata!
-- 🌱 I’m currently learning GO
+- 🌱 I’m currently developing with GO, with history in Java/C/C++ over the years.
 - 🔭 I’m currently working on [odpi/egeria-connector-sas-viya](https://github.com/odpi/egeria-connector-sas-viya)
 - 👯 I’m looking to collaborate on [Open Metadata](https://github.com/odpi/egeria)
 
