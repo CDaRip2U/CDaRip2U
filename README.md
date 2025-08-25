@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 I'm a software developer at [SAS Insitute Inc.](https://www.sas.com/), for over 20 years.
+- 😄 I'm a software developer at [SAS Insitute Inc.](https://www.sas.com/), for over 25 years.
 - 💬 Ask me about Metadata!
 - 🌱 I’m currently developing with GO, with history in Java/C/C++ over the years.
 - 🔭 I’m currently working on [odpi/egeria-connector-sas-viya](https://github.com/odpi/egeria-connector-sas-viya)
